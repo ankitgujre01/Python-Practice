@@ -1,1 +1,0 @@
-# formul ax^2 + bx

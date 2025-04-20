@@ -1,1 +1,0 @@
-height = float(input("Enter the height of the triangle: "))
